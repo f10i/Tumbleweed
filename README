@@ -8,7 +8,7 @@ Tumbleweed is a simple breadcrumbs plugin for rails. Design goals include:
 * Support dynamic links  
 * Rails 2 compatible (tested with 2.3)  
 
-If You're using Rails 3, then checkout [https://github.com/lassebunk/gretel](gretel), an excellent breadcrumbs plugin, and a huge inspiration point for tumbleweed. (If it was rails 2 compatible, this plugin wouldn't exist).
+If You're using Rails 3, then checkout https://github.com/lassebunk/gretel, an excellent breadcrumbs plugin, and a huge inspiration point for tumbleweed. (If it was rails 2 compatible, this plugin wouldn't exist).
 
 How to use
 ==========
