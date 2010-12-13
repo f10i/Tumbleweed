@@ -1,4 +1,4 @@
-Tumbleweed.configure do
+Tumbleweed::Tumbleweed.configure do
   # Remember to restart your server after modifying this file
   # 
   # You define crumbs by calling the "crumb" method, and specifying its name, text, url and parent
